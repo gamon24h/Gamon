@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] TDT ESP[/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart>http://payoncetv.com/static/images/live_tv_streaming.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/XucP7Y0Z</externallink>
+</channel>
+  </channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
